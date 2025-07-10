@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi! Welcome on my GitHub profile 👋
 
-<!--
-**pawelzajac110/pawelzajac110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Machine Learning Engineer / Data Scientist** with a strong mathematical background and passion for building models that *not only fit, but explain*.  
+My focus lies at the intersection of **probabilistic modeling**, **time series forecasting**, and **statistical inference**.
 
-Here are some ideas to get you started:
+## 🧠 Specializations
+- **Stochastic Processes** – Poisson, Wiener, Brownian motion, Gaussian processes  
+- **Time Series Analysis** – ARIMA, HMMs, spectral methods, Kalman filtering  
+- **Bayesian Inference & Statistical Learning** – MCMC, variational inference, hypothesis testing  
+- **Model Selection & Hyperparameter Optimization** – Bayesian optimization, grid/random search, CV  
+- **Machine Learning Engineering** – pipelines, reproducibility, deployment
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy designing **interpretable models**, simulating complex dynamics, and squeezing insight from noisy data.
+
+## 🧰 Technologies & Tools
+- Python (NumPy, pandas, matplotlib, seaborn)
+- scikit-learn, XGBoost, LightGBM
+- PyMC3 / PyMC / ArviZ
+- TensorFlow / PyTorch
+- Optuna / Ray Tune
+- Git / GitHub / VS Code
+- Docker, MLFlow, Weights & Biases
+
+## 📂 Selected Projects
+- `Hidden-Markov-Models` – DTMCs, HMMs, Gaussian HMMs  
+- `Continuous-Stochastic-Processes` – Poisson, Wiener, CTMCs, SDEs, Gaussian processes  
+- `Statistical-Inference` – simulations, estimators, hypothesis testing, bootstrapping
+
+## 📬 Contact
+**pawel.zajac.110@gmail.com**
