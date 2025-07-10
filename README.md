@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/github_loop.gif" alt="GitHub Logo" width="150">
+  <img src="assets/github_loop.webp" alt="GitHub Loop" width="150">
 </p>
 
 # Hi! Welcome on my GitHub profile 
