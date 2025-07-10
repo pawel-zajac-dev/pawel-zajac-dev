@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/github_loop.gif" alt="GitHub Logo" width="150">
+</p>
+
 # Hi! Welcome on my GitHub profile 
 
 I’m a **Machine Learning Engineer / Data Scientist** with a strong mathematical background and passion for building models that *not only fit, but explain*.  
