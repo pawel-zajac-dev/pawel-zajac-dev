@@ -12,7 +12,7 @@ My focus lies at the intersection of **probabilistic modeling**, **time series f
 
 I enjoy designing **interpretable models**, simulating complex dynamics, and squeezing insight from noisy data.
 
-<p align="center">
+
   <img src="assets/github_loop.webp" alt="GitHub Loop" width="150">
 </p>
 
