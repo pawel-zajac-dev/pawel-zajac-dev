@@ -21,10 +21,5 @@ I enjoy designing **interpretable models**, simulating complex dynamics, and squ
 - Git / GitHub / VS Code
 - Docker, MLFlow, Weights & Biases
 
-## 📂 Selected Projects
-- `Hidden-Markov-Models` – DTMCs, HMMs, Gaussian HMMs  
-- `Continuous-Stochastic-Processes` – Poisson, Wiener, CTMCs, SDEs, Gaussian processes  
-- `Statistical-Inference` – simulations, estimators, hypothesis testing, bootstrapping
-
 ## 📬 Contact
 **pawel.zajac.110@gmail.com**
