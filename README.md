@@ -3,7 +3,7 @@
 I’m a **Machine Learning Engineer / Data Scientist** with a strong mathematical background and passion for building models that *not only fit, but explain*.  
 My focus lies at the intersection of **probabilistic modeling**, **time series forecasting**, and **statistical inference**.
 
-## Specializations
+## 🔍 Specializations
 - **Stochastic Processes** – Poisson, Wiener, Brownian motion, Gaussian processes  
 - **Time Series Analysis** – ARIMA, HMMs, spectral methods, Kalman filtering  
 - **Bayesian Inference & Statistical Learning** – MCMC, variational inference, hypothesis testing  
