@@ -20,6 +20,3 @@ I enjoy designing **interpretable models**, simulating complex dynamics, and squ
 - Optuna / Ray Tune
 - Git / GitHub / VS Code
 - Docker, MLFlow, Weights & Biases
-
-## 📬 Contact
-**pawel.zajac.110@gmail.com**
