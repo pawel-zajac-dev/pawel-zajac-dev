@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/github_loop.webp" alt="GitHub Loop" width="150">
-</p>
-
 # Hi! Welcome on my GitHub profile 
 
 I’m a **Machine Learning Engineer / Data Scientist** with a strong mathematical background and passion for building models that *not only fit, but explain*.  
@@ -15,6 +11,10 @@ My focus lies at the intersection of **probabilistic modeling**, **time series f
 - **Machine Learning Engineering** – pipelines, reproducibility, deployment
 
 I enjoy designing **interpretable models**, simulating complex dynamics, and squeezing insight from noisy data.
+
+<p align="center">
+  <img src="assets/github_loop.webp" alt="GitHub Loop" width="150">
+</p>
 
 ## Technologies & Tools
 - Python (NumPy, pandas, matplotlib, seaborn)
