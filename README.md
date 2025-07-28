@@ -28,59 +28,59 @@ I enjoy designing **interpretable models**, simulating complex dynamics, and squ
 
 <h2 align="center">My Projects</h2>
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <td align="center">
+    <td align="center" style="padding: 20px; border: 1px solid #333; border-radius: 10px;">
       <a href="https://github.com/pawel-zajac-dev/Machine-Learning">
-        <b>Machine Learning</b>
+        <b style="font-size: 20px;">Machine Learning</b>
       </a>
-      <br/>
-      Random Forest, XGBoost, Logistic Regression, SVM...
+      <br/><br/>
+      <span style="font-size: 14px;">Random Forest, XGBoost, Logistic Regression, SVM...</span>
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" style="padding: 20px; border: 1px solid #333; border-radius: 10px;">
       <a href="https://github.com/pawel-zajac-dev/Natural-Language-Processing">
-        <b>Natural Language Processing</b>
+        <b style="font-size: 20px;">Natural Language Processing</b>
       </a>
-      <br/>
-      Text mining, LSI, classification, embeddings
+      <br/><br/>
+      <span style="font-size: 14px;">Text mining, LSI, classification, embeddings</span>
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" style="padding: 20px; border: 1px solid #333; border-radius: 10px;">
       <a href="https://github.com/pawel-zajac-dev/Recommender-Systems">
-        <b>Recommender Systems</b>
+        <b style="font-size: 20px;">Recommender Systems</b>
       </a>
-      <br/>
-      Collaborative & Content-Based Filtering
+      <br/><br/>
+      <span style="font-size: 14px;">Collaborative & Content-Based Filtering</span>
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" style="padding: 20px; border: 1px solid #333; border-radius: 10px;">
       <a href="https://github.com/pawel-zajac-dev/Time-Series-Models">
-        <b>Time Series Models</b>
+        <b style="font-size: 20px;">Time Series Models</b>
       </a>
-      <br/>
-      ARIMA, SARIMAX, VAR, GARCH, LSTM
+      <br/><br/>
+      <span style="font-size: 14px;">ARIMA, SARIMAX, VAR, GARCH, LSTM</span>
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" style="padding: 20px; border: 1px solid #333; border-radius: 10px;">
       <a href="https://github.com/pawel-zajac-dev/Hidden-Markov-Models">
-        <b>Hidden Markov Models</b>
+        <b style="font-size: 20px;">Hidden Markov Models</b>
       </a>
-      <br/>
-      HMMs, Gaussian HMMs, second-order HMMs
+      <br/><br/>
+      <span style="font-size: 14px;">HMMs, Gaussian HMMs, second-order HMMs</span>
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" style="padding: 20px; border: 1px solid #333; border-radius: 10px;">
       <a href="https://github.com/pawel-zajac-dev/Continuous-Stochastic-Processes">
-        <b>Continuous Stochastic Processes</b>
+        <b style="font-size: 20px;">Continuous Stochastic Processes</b>
       </a>
-      <br/>
-      Brownian motion, CTMCs, SDEs
+      <br/><br/>
+      <span style="font-size: 14px;">Brownian motion, CTMCs, SDEs</span>
     </td>
   </tr>
 </table>
