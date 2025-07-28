@@ -26,3 +26,59 @@ I enjoy designing **interpretable models**, simulating complex dynamics, and squ
 - Docker, MLFlow, Weights & Biases
 - R
 
+<h2 align="center">My Projects</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/paweł-zając-dev/Machine-Learning">
+        <img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="60"/><br/>
+        <b>Machine Learning</b>
+      </a>
+      <br/>
+      Random Forest, XGBoost, Logistic Regression, SVM...
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/paweł-zając-dev/Natural-Language-Processing">
+        <img src="https://img.icons8.com/fluency/96/000000/language.png" width="60"/><br/>
+        <b>Natural Language Processing</b>
+      </a>
+      <br/>
+      Text mining, LSI, classification, embeddings
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/paweł-zając-dev/Recommender-Systems">
+        <img src="https://img.icons8.com/fluency/96/000000/recommendation.png" width="60"/><br/>
+        <b>Recommender Systems</b>
+      </a>
+      <br/>
+      Collaborative & Content-Based Filtering
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/paweł-zając-dev/Time-Series-Models">
+        <img src="https://img.icons8.com/fluency/96/000000/time.png" width="60"/><br/>
+        <b>Time Series Models</b>
+      </a>
+      <br/>
+      ARIMA, SARIMAX, VAR, GARCH, LSTM
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/paweł-zając-dev/Hidden-Markov-Models">
+        <img src="https://img.icons8.com/fluency/96/000000/graph.png" width="60"/><br/>
+        <b>Hidden Markov Models</b>
+      </a>
+      <br/>
+      HMMs, Gaussian HMMs, second-order HMMs
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/paweł-zając-dev/Continuous-Stochastic-Processes">
+        <img src="https://img.icons8.com/fluency/96/000000/process.png" width="60"/><br/>
+        <b>Continuous Stochastic Processes</b>
+      </a>
+      <br/>
+      Brownian motion, CTMCs, SDEs
+    </td>
+  </tr>
+</table>
