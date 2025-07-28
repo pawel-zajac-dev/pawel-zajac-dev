@@ -31,24 +31,24 @@ I enjoy designing **interpretable models**, simulating complex dynamics, and squ
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/paweł-zając-dev/Machine-Learning">
-        <img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="60"/><br/>
+      <a href="https://github.com/pawel-zajac-dev/Machine-Learning">
+        <img src="pawel-zajac-dev/assets/ml_icon.png" width="60"/><br/>
         <b>Machine Learning</b>
       </a>
       <br/>
       Random Forest, XGBoost, Logistic Regression, SVM...
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/paweł-zając-dev/Natural-Language-Processing">
-        <img src="https://img.icons8.com/fluency/96/000000/language.png" width="60"/><br/>
+      <a href="https://github.com/pawel-zajac-dev/Natural-Language-Processing">
+        <img src="pawel-zajac-dev/assets/nlp_icon.png" width="60"/><br/>
         <b>Natural Language Processing</b>
       </a>
       <br/>
       Text mining, LSI, classification, embeddings
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/paweł-zając-dev/Recommender-Systems">
-        <img src="https://img.icons8.com/fluency/96/000000/recommendation.png" width="60"/><br/>
+      <a href="https://github.com/pawel-zajac-dev/Recommender-Systems">
+        <img src="pawel-zajac-dev/assets/recommender_icon.png" width="60"/><br/>
         <b>Recommender Systems</b>
       </a>
       <br/>
@@ -57,24 +57,24 @@ I enjoy designing **interpretable models**, simulating complex dynamics, and squ
   </tr>
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/paweł-zając-dev/Time-Series-Models">
-        <img src="https://img.icons8.com/fluency/96/000000/time.png" width="60"/><br/>
+      <a href="https://github.com/pawel-zajac-dev/Time-Series-Models">
+        <img src="pawel-zajac-dev/assets/timeseries_icon.png" width="60"/><br/>
         <b>Time Series Models</b>
       </a>
       <br/>
       ARIMA, SARIMAX, VAR, GARCH, LSTM
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/paweł-zając-dev/Hidden-Markov-Models">
-        <img src="https://img.icons8.com/fluency/96/000000/graph.png" width="60"/><br/>
+      <a href="https://github.com/pawel-zajac-dev/Hidden-Markov-Models">
+        <img src="pawel-zajac-dev/assets/hmm_icon.png" width="60"/><br/>
         <b>Hidden Markov Models</b>
       </a>
       <br/>
       HMMs, Gaussian HMMs, second-order HMMs
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/paweł-zając-dev/Continuous-Stochastic-Processes">
-        <img src="https://img.icons8.com/fluency/96/000000/process.png" width="60"/><br/>
+      <a href="https://github.com/pawel-zajac-dev/Continuous-Stochastic-Processes">
+        <img src="pawel-zajac-dev/assets/stochastic_icon.png" width="60"/><br/>
         <b>Continuous Stochastic Processes</b>
       </a>
       <br/>
