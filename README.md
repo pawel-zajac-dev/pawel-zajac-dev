@@ -32,7 +32,7 @@ I enjoy designing **interpretable models**, simulating complex dynamics, and squ
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/pawel-zajac-dev/Machine-Learning">
-        <img src="pawel-zajac-dev/assets/artificial_intelligence.png" width="60"/><br/>
+        <img src="https://github.com/pawel-zajac-dev/assets/artificial_intelligence.png" width="60"/><br/>
         <b>Machine Learning</b>
       </a>
       <br/>
@@ -40,7 +40,7 @@ I enjoy designing **interpretable models**, simulating complex dynamics, and squ
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/pawel-zajac-dev/Natural-Language-Processing">
-        <img src="pawel-zajac-dev/assets/language.png" width="60"/><br/>
+        <img src="https://github.com/pawel-zajac-dev/assets/language.png" width="60"/><br/>
         <b>Natural Language Processing</b>
       </a>
       <br/>
@@ -48,7 +48,7 @@ I enjoy designing **interpretable models**, simulating complex dynamics, and squ
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/pawel-zajac-dev/Recommender-Systems">
-        <img src="pawel-zajac-dev/assets/recommender_icon.png" width="60"/><br/>
+        <img src="https://github.com/pawel-zajac-dev/assets/recommender_icon.png" width="60"/><br/>
         <b>Recommender Systems</b>
       </a>
       <br/>
@@ -58,7 +58,7 @@ I enjoy designing **interpretable models**, simulating complex dynamics, and squ
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/pawel-zajac-dev/Time-Series-Models">
-        <img src="pawel-zajac-dev/assets/time.png" width="60"/><br/>
+        <img src="https://github.com/pawel-zajac-dev/assets/time.png" width="60"/><br/>
         <b>Time Series Models</b>
       </a>
       <br/>
@@ -66,7 +66,7 @@ I enjoy designing **interpretable models**, simulating complex dynamics, and squ
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/pawel-zajac-dev/Hidden-Markov-Models">
-        <img src="pawel-zajac-dev/assets/graph.png" width="60"/><br/>
+        <img src="https://github.com/pawel-zajac-dev/assets/graph.png" width="60"/><br/>
         <b>Hidden Markov Models</b>
       </a>
       <br/>
@@ -74,7 +74,7 @@ I enjoy designing **interpretable models**, simulating complex dynamics, and squ
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/pawel-zajac-dev/Continuous-Stochastic-Processes">
-        <img src="pawel-zajac-dev/assets/process.png" width="60"/><br/>
+        <img src="https://github.com/pawel-zajac-dev/assets/process.png" width="60"/><br/>
         <b>Continuous Stochastic Processes</b>
       </a>
       <br/>
