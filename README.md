@@ -28,59 +28,59 @@ I enjoy designing **interpretable models**, simulating complex dynamics, and squ
 
 <h2 align="center">My Projects</h2>
 
-<table align="center" width="100%">
+<table width="100%">
   <tr>
-    <td align="center" style="padding: 20px; border: 1px solid #333; border-radius: 10px;">
+    <td align="center" style="padding: 25px; border: 1px solid #333; border-radius: 10px; width: 100%; background-color: #0d1117;">
       <a href="https://github.com/pawel-zajac-dev/Machine-Learning">
-        <b style="font-size: 20px;">Machine Learning</b>
+        <b style="font-size: 22px; color: #ffffff;">Machine Learning</b>
       </a>
       <br/><br/>
-      <span style="font-size: 14px;">Random Forest, XGBoost, Logistic Regression, SVM...</span>
+      <span style="font-size: 15px; color: #c9d1d9;">Random Forest, XGBoost, Logistic Regression, SVM...</span>
     </td>
   </tr>
   <tr>
-    <td align="center" style="padding: 20px; border: 1px solid #333; border-radius: 10px;">
+    <td align="center" style="padding: 25px; border: 1px solid #333; border-radius: 10px; width: 100%; background-color: #0d1117;">
       <a href="https://github.com/pawel-zajac-dev/Natural-Language-Processing">
-        <b style="font-size: 20px;">Natural Language Processing</b>
+        <b style="font-size: 22px; color: #ffffff;">Natural Language Processing</b>
       </a>
       <br/><br/>
-      <span style="font-size: 14px;">Text mining, LSI, classification, embeddings</span>
+      <span style="font-size: 15px; color: #c9d1d9;">Text mining, LSI, classification, embeddings</span>
     </td>
   </tr>
   <tr>
-    <td align="center" style="padding: 20px; border: 1px solid #333; border-radius: 10px;">
+    <td align="center" style="padding: 25px; border: 1px solid #333; border-radius: 10px; width: 100%; background-color: #0d1117;">
       <a href="https://github.com/pawel-zajac-dev/Recommender-Systems">
-        <b style="font-size: 20px;">Recommender Systems</b>
+        <b style="font-size: 22px; color: #ffffff;">Recommender Systems</b>
       </a>
       <br/><br/>
-      <span style="font-size: 14px;">Collaborative & Content-Based Filtering</span>
+      <span style="font-size: 15px; color: #c9d1d9;">Collaborative & Content-Based Filtering</span>
     </td>
   </tr>
   <tr>
-    <td align="center" style="padding: 20px; border: 1px solid #333; border-radius: 10px;">
+    <td align="center" style="padding: 25px; border: 1px solid #333; border-radius: 10px; width: 100%; background-color: #0d1117;">
       <a href="https://github.com/pawel-zajac-dev/Time-Series-Models">
-        <b style="font-size: 20px;">Time Series Models</b>
+        <b style="font-size: 22px; color: #ffffff;">Time Series Models</b>
       </a>
       <br/><br/>
-      <span style="font-size: 14px;">ARIMA, SARIMAX, VAR, GARCH, LSTM</span>
+      <span style="font-size: 15px; color: #c9d1d9;">ARIMA, SARIMAX, VAR, GARCH, LSTM</span>
     </td>
   </tr>
   <tr>
-    <td align="center" style="padding: 20px; border: 1px solid #333; border-radius: 10px;">
+    <td align="center" style="padding: 25px; border: 1px solid #333; border-radius: 10px; width: 100%; background-color: #0d1117;">
       <a href="https://github.com/pawel-zajac-dev/Hidden-Markov-Models">
-        <b style="font-size: 20px;">Hidden Markov Models</b>
+        <b style="font-size: 22px; color: #ffffff;">Hidden Markov Models</b>
       </a>
       <br/><br/>
-      <span style="font-size: 14px;">HMMs, Gaussian HMMs, second-order HMMs</span>
+      <span style="font-size: 15px; color: #c9d1d9;">HMMs, Gaussian HMMs, second-order HMMs</span>
     </td>
   </tr>
   <tr>
-    <td align="center" style="padding: 20px; border: 1px solid #333; border-radius: 10px;">
+    <td align="center" style="padding: 25px; border: 1px solid #333; border-radius: 10px; width: 100%; background-color: #0d1117;">
       <a href="https://github.com/pawel-zajac-dev/Continuous-Stochastic-Processes">
-        <b style="font-size: 20px;">Continuous Stochastic Processes</b>
+        <b style="font-size: 22px; color: #ffffff;">Continuous Stochastic Processes</b>
       </a>
       <br/><br/>
-      <span style="font-size: 14px;">Brownian motion, CTMCs, SDEs</span>
+      <span style="font-size: 15px; color: #c9d1d9;">Brownian motion, CTMCs, SDEs</span>
     </td>
   </tr>
 </table>
