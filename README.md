@@ -15,13 +15,3 @@ I enjoy designing **interpretable models**, simulating complex dynamics, and squ
 
   <img src="assets/github_loop.webp" alt="GitHub Loop" width="150">
 </p>
-
-## Technologies & Tools
-- Python (NumPy, pandas, matplotlib, seaborn)
-- scikit-learn, XGBoost, LightGBM
-- PyMC3 / PyMC / ArviZ
-- TensorFlow / PyTorch
-- Optuna / Ray Tune
-- Git / GitHub / VS Code
-- Docker, MLFlow, Weights & Biases
-- R
