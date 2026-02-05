@@ -1,17 +1,24 @@
-# Hi! Welcome on my GitHub profile 
+# Hi! Welcome to my GitHub profile
 
-I’m a **Machine Learning Engineer / Data Scientist** with a strong mathematical background and passion for building models that *not only fit, but explain*.  
-My focus lies at the intersection of **probabilistic modeling**, **time series forecasting**, and **statistical inference**.
+I’m a **Machine Learning Engineer / Data Scientist** with a strong mathematical background and a passion for building models that are **interpretable, probabilistic, and statistically sound**.
+
+My work focuses on combining **machine learning**, **Bayesian inference**, and **stochastic modeling** to analyze complex and noisy data. Professionally, I work as a **Pay Equity Specialist / Data Analyst at Mercer**, applying statistical modeling in workforce and compensation analytics.
 
 ## Specializations
-- **Stochastic Processes** – Poisson, Wiener, Brownian motion, Gaussian processes  
-- **Time Series Analysis** – ARIMA, HMMs, spectral methods, Kalman filtering  
-- **Bayesian Inference & Statistical Learning** – MCMC, variational inference, hypothesis testing  
-- **Model Selection & Hyperparameter Optimization** – Bayesian optimization, grid/random search, CV  
-- **Machine Learning Engineering** – pipelines, reproducibility, deployment
+- **Probabilistic & Bayesian Machine Learning** – Bayesian regression, Naive Bayes, MCMC, MAP, variational inference, uncertainty modeling  
+- **Reinforcement Learning & Bandits** – Epsilon-Greedy, UCB, Thompson Sampling, exploration–exploitation frameworks  
+- **Time Series & State-Space Modeling** – ARIMA family, VAR, GARCH, HMMs, Kalman filtering, spectral methods  
+- **Stochastic Processes** – DTMCs, CTMCs, Wiener processes, Brownian motion, Gaussian processes  
+- **Statistical Inference & Experimental Design** – hypothesis testing, A/B testing, Bayesian vs Frequentist methods  
+- **Machine Learning Engineering** – model selection, Bayesian optimization, CV, pipelines, reproducibility  
 
-I enjoy designing **interpretable models**, simulating complex dynamics, and squeezing insight from noisy data.
+## Current Interests & Applications
+I actively expand my skills in applying ML methods to real-world problems, including:
+- **Recommender Systems** – collaborative filtering, content-based filtering  
+- **Natural Language Processing (NLP)** – LSI, text representation and semantic analysis  
+- **Dimensionality Reduction & Feature Engineering**
+- **Applied Predictive Analytics and Decision Modeling**
 
+I enjoy designing models that **explain mechanisms behind data**, simulating complex dynamics, and extracting signal from uncertainty.
 
-  <img src="assets/github_loop.webp" alt="GitHub Loop" width="150">
-</p>
+<img src="assets/github_loop.webp" alt="GitHub Loop" width="150">
