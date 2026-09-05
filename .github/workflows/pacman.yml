@@ -16,17 +16,27 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: Generate Pacman Graph
-        uses: yoshi389111/github-profile-header@main
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          output: dist/pacman-contribution-graph.svg
-          output_dark: dist/pacman-contribution-graph-dark.svg
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          target_branch: output
-          build_dir: dist
+          node-version: 20
+
+      - name: Generate Pacman SVG files
+        run: |
+          mkdir -p dist
+          npx github-profile-header --user pawel-zajac-dev --type pacman --out dist/pacman-contribution-graph.svg
+          npx github-profile-header --user pawel-zajac-dev --type pacman --theme dark --out dist/pacman-contribution-graph-dark.svg
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Deploy to output branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: dist
+          publish_branch: output
+          destination_dir: ./
+          keep_files: false
