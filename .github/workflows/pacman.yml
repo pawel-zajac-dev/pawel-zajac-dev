@@ -17,10 +17,16 @@ jobs:
 
     steps:
       - name: Generate Pacman Graph
-        uses: qwerdcv/pacman-contribution-graph@main
+        uses: yoshi389111/github-profile-header@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          output_branch: output
+          output: dist/pacman-contribution-graph.svg
+          output_dark: dist/pacman-contribution-graph-dark.svg
 
-      - name: Ensure files are pushed
-        run: echo "Pacman generated successfully"
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
