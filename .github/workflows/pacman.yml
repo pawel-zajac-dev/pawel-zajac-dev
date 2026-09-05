@@ -9,23 +9,38 @@ on:
       - main
 
 jobs:
-  pacman:
+  build:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: pawel-zajac-dev
-          template: classic
-          base: ""
-          config_timezone: Europe/Warsaw
-          plugin_isocalendar: yes
-          plugin_isocalendar_sections: ""
-          plugin_languages: no
-          output_action: commit
-          committer_branch: pacman-output
-          filename: github-pacman.svg
-          plugin_pacman: yes
-          plugin_pacman_max_delay: 20
+          node-version: 18
+
+      - name: Clone Pacman Generator Source
+        run: |
+          git clone --depth 1 https://github.com/abhisheknaiidu/abhisheknaiidu.git pacman-src
+          cd pacman-src
+          npm install
+          node index.js
+          mv output.svg ../pacman.svg
+          cd ..
+          rm -rf pacman-src
+        env:
+          GITHUB_USER_NAME: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Deploy to pacman-output branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./
+          publish_branch: pacman-output
+          destination_dir: ./
+          keep_files: false
