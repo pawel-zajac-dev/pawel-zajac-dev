@@ -23,17 +23,17 @@ jobs:
         with:
           node-version: 18
 
-      - name: Clone Pacman Generator Source
+      - name: Generate Pacman SVG
         run: |
-          git clone --depth 1 https://github.com/abhisheknaiidu/abhisheknaiidu.git pacman-src
+          git clone --depth 1 https://github.com/abhisheknaiidu/pacman-contributions.git pacman-src
           cd pacman-src
           npm install
-          node index.js
-          mv output.svg ../pacman.svg
+          npm run build || node index.js || node src/index.js
+          find . -name "*.svg" -exec cp {} ../pacman.svg \;
           cd ..
           rm -rf pacman-src
         env:
-          GITHUB_USER_NAME: ${{ github.repository_owner }}
+          GITHUB_USERNAME: ${{ github.repository_owner }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Deploy to pacman-output branch
