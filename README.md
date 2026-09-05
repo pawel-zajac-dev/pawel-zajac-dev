@@ -1,5 +1,7 @@
 # Hi! Welcome to my GitHub profile
 
+<img src="assets/github_loop.webp" alt="GitHub Loop" width="150">
+
 I’m a **Machine Learning Engineer / Data Scientist** with a strong mathematical background and a passion for building models that are **interpretable, probabilistic, and statistically sound**.
 
 My work focuses on combining **machine learning**, **Bayesian inference**, and **stochastic modeling** to analyze complex and noisy data. Professionally, I work as a **Pay Equity Specialist / Data Analyst at Mercer**, applying statistical modeling in workforce and compensation analytics.
@@ -21,7 +23,7 @@ I actively expand my skills in applying ML methods to real-world problems, inclu
 
 I enjoy designing models that **explain mechanisms behind data**, simulating complex dynamics, and extracting signal from uncertainty.
 
-<img src="assets/github_loop.webp" alt="GitHub Loop" width="150">
+
 
 ---
 
