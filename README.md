@@ -23,10 +23,6 @@ I actively expand my skills in applying ML methods to real-world problems, inclu
 
 I enjoy designing models that **explain mechanisms behind data**, simulating complex dynamics, and extracting signal from uncertainty.
 
-
-
----
-
 ### 👾 Pacman contribution animation:
 
 <div align="center">
