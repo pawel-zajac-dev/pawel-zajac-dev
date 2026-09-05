@@ -27,6 +27,10 @@ I enjoy designing models that **explain mechanisms behind data**, simulating com
 
 ### 👾 Pacman contribution animation:
 
-<p align="center">
-  <img src="https://pacman-contribution-animation.vercel.app/api/pacman?username=pawel-zajac-dev&theme=tokyonight" alt="Pacman Animation" />
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pawel-zajac-dev/pawel-zajac-dev/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pawel-zajac-dev/pawel-zajac-dev/output/pacman-contribution-graph.svg" />
+    <img src="https://raw.githubusercontent.com/pawel-zajac-dev/pawel-zajac-dev/output/pacman-contribution-graph.svg" alt="Pacman contribution animation" />
+  </picture>
+</div>
