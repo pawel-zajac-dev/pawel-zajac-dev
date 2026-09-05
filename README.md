@@ -25,10 +25,8 @@ I enjoy designing models that **explain mechanisms behind data**, simulating com
 
 ---
 
-## Pacman contribution animation:
+### 👾 Contribution animation:
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pawel-zajac-dev/pawel-zajac-dev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pawel-zajac-dev/pawel-zajac-dev/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pawel-zajac-dev/pawel-zajac-dev/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pawel-zajac-dev/pawel-zajac-dev/pacman-output/github-contribution-grid-snake.svg" alt="Contribution Animation" />
+</p>
