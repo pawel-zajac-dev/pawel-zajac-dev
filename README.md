@@ -56,17 +56,3 @@ I combine **machine learning**, **Bayesian inference**, and **stochastic modelin
    </td>
   </tr>
 </table>
-
----
-
-### 👾 Contribution Activity
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pawel-zajac-dev/pawel-zajac-dev/output/pacman-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pawel-zajac-dev/pawel-zajac-dev/output/pacman-contribution-graph.svg" />
-    <img src="https://raw.githubusercontent.com/pawel-zajac-dev/pawel-zajac-dev/output/pacman-contribution-graph.svg" alt="Pacman contribution animation" />
-  </picture>
-  <br />
-  <sub><i>A dedicated developer focused on clean code, mathematics, and meaningful data-driven solutions.</i></sub>
-</div>
