@@ -22,3 +22,11 @@ I actively expand my skills in applying ML methods to real-world problems, inclu
 I enjoy designing models that **explain mechanisms behind data**, simulating complex dynamics, and extracting signal from uncertainty.
 
 <img src="assets/github_loop.webp" alt="GitHub Loop" width="150">
+
+---
+
+## Pacman contribution animation:
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pawel-zajac-dev/pawel-zajac-dev/pacman-output/pacman.svg" alt="Pacman Animation" />
+</p>
