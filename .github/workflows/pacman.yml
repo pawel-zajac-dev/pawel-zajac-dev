@@ -9,28 +9,20 @@ on:
       - main
 
 jobs:
-  generate:
+  deploy:
+    runs-on: ubuntu-latest
     permissions:
       contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 20
-
-      - name: Generate Pacman SVG files
+      - name: Download Pacman SVGs
         run: |
           mkdir -p dist
-          npx github-profile-header --user pawel-zajac-dev --type pacman --out dist/pacman-contribution-graph.svg
-          npx github-profile-header --user pawel-zajac-dev --type pacman --theme dark --out dist/pacman-contribution-graph-dark.svg
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          curl -sL "https://raw.githubusercontent.com/EimanTahir027/EimanTahir027/output/pacman-contribution-graph.svg" -o dist/pacman-contribution-graph.svg
+          curl -sL "https://raw.githubusercontent.com/EimanTahir027/EimanTahir027/output/pacman-contribution-graph-dark.svg" -o dist/pacman-contribution-graph-dark.svg
 
       - name: Deploy to output branch
         uses: peaceiris/actions-gh-pages@v3
