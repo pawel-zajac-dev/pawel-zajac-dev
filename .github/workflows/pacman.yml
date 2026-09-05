@@ -9,38 +9,28 @@ on:
       - main
 
 jobs:
-  build:
-    runs-on: ubuntu-latest
+  generate:
     permissions:
       contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
 
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
+      - name: Generate Pacman animation
+        uses: Platane/snk/svg-only@v3
         with:
-          node-version: 18
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=yellow
 
-      - name: Generate Pacman SVG
-        run: |
-          git clone --depth 1 https://github.com/abhisheknaiidu/pacman-contributions.git pacman-src
-          cd pacman-src
-          npm install
-          npm run build || node index.js || node src/index.js
-          find . -name "*.svg" -exec cp {} ../pacman.svg \;
-          cd ..
-          rm -rf pacman-src
-        env:
-          GITHUB_USERNAME: ${{ github.repository_owner }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Deploy to pacman-output branch
+      - name: Deploy to output branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./
+          publish_dir: dist
           publish_branch: pacman-output
           destination_dir: ./
           keep_files: false
