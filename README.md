@@ -1,6 +1,6 @@
 <div align="center">
   <img src="assets/github_loop.webp" alt="GitHub Loop" width="130" />
-  <h1>Hi, I'm Paweł 👋</h1>
+  <h1>Hi, I'm Paweł</h1>
   <p><strong>Machine Learning Engineer & Data Scientist</strong></p>
   <p><em>Focusing on interpretable, probabilistic, and statistically sound modeling.</em></p>
 
@@ -12,17 +12,17 @@
 
 ---
 
-### 📌 About Me
+### About Me
 
 I combine **machine learning**, **Bayesian inference**, and **stochastic modeling** to analyze complex, noisy datasets and simulate dynamic systems. 
 
-* 💼 **Current Role:** Pay Equity Specialist / Data Analyst at **Mercer** (statistical modeling in workforce & compensation analytics).
-* 🎯 **Core Philosophy:** Designing models that explain the mechanisms behind data, not just black-box predictions.
-* 🔍 **Research & Practice:** Extracting actionable signal from uncertainty and non-stationary processes.
+* **Current Role:** Pay Equity Specialist / Data Analyst at **Mercer** (statistical modeling in workforce & compensation analytics).
+* **Core Philosophy:** Designing models that explain the mechanisms behind data, not just black-box predictions.
+* **Research & Practice:** Extracting actionable signal from uncertainty and non-stationary processes.
 
 ---
 
-### 🛠️ Tech Stack & Tooling
+### Tech Stack & Tooling
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,r,pytorch,sklearn,git,docker,postgres,linux" alt="Tech Stack" />
@@ -30,13 +30,13 @@ I combine **machine learning**, **Bayesian inference**, and **stochastic modelin
 
 ---
 
-### 🧠 Areas of Focus
+### Areas of Focus
 
 <table>
   <tr>
     <td width="50%" valign="top">
 
-#### 🔬 Specializations
+#### Specializations
 * **Probabilistic & Bayesian ML:** MCMC, MAP, Variational Inference, Bayesian Regression, Uncertainty Quantification
 * **Reinforcement Learning:** Bandits (UCB, Thompson Sampling), Exploration–Exploitation frameworks
 * **Time Series & State-Space:** ARIMA/VAR, GARCH, Hidden Markov Models, Kalman filtering
@@ -47,7 +47,7 @@ I combine **machine learning**, **Bayesian inference**, and **stochastic modelin
    </td>
    <td width="50%" valign="top">
 
-#### 🚀 Applied Interests
+#### Applied Interests
 * **Recommender Systems:** Latent factor models, collaborative & content-based filtering
 * **Applied NLP:** Semantic embeddings, LSI, representation learning
 * **Representation & Dynamics:** Dimensionality reduction, feature decomposition
