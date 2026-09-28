@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Paweł</h1>
+  <p><b style="font-size: 32px;">Hi, I'm Paweł</b></p>
   <p><em><strong>Machine Learning Engineer & Data Scientist</strong></em></p>
 
   <p>
