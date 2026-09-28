@@ -1,8 +1,7 @@
 <div align="center">
   <img src="assets/github_loop.webp" alt="GitHub Loop" width="130" />
   <h1>Hi, I'm Paweł</h1>
-  <p><strong>Machine Learning Engineer & Data Scientist</strong></p>
-  <p><em>Focusing on interpretable, probabilistic, and statistically sound modeling.</em></p>
+  <p><em><strong>Machine Learning Engineer & Data Scientist</strong></em></p>
 
   <p>
     <a href="https://www.linkedin.com/in/pawel-zajac-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
