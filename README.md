@@ -8,7 +8,7 @@
   </p>
 </div>
 
-### About Me
+### <u>About Me</u>
 
 Data Scientist & Machine Learning Engineer focused on practical statistical modeling and understanding the mechanisms behind data.
 
@@ -16,13 +16,13 @@ Data Scientist & Machine Learning Engineer focused on practical statistical mode
 &emsp;📊 **What I do:** Turn messy, complex data into reliable models and actionable business insights.<br>
 &emsp;🎯 **Focus:** Building interpretable models we can actually explain, not just blind black-box predictions.
 
-### Tech Stack & Tooling
+### <u>Tech Stack & Tooling</u>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,r,pytorch,sklearn,git,docker,postgres,linux" alt="Tech Stack" />
 </div>
 
-### Areas of Focus
+### <u>Areas of Focus</u>
 
 #### Core Specializations
 * **Classical Machine Learning:** Tree-based models (Random Forests, Gradient Boosting), Generalized Linear Models (GLMs), classification, and regression.
