@@ -30,27 +30,14 @@ Data Scientist & Machine Learning Engineer focused on practical statistical mode
 
 ### Areas of Focus
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+**Core Specializations**
+* **Classical Machine Learning:** Tree-based models (Random Forests, Gradient Boosting), Generalized Linear Models (GLMs), classification, and regression.
+* **Probabilistic & Bayesian ML:** MCMC, Variational Inference, Uncertainty Quantification.
+* **Time Series & Stochastic Modeling:** ARIMA/VAR, Gaussian Processes, Hidden Markov Models, Kalman Filtering.
+* **Inference & Experiments:** A/B testing frameworks, Frequentist vs. Bayesian experimental design.
+* **ML Engineering & Optimization:** Hyperparameter optimization, Bayesian optimization, reproducible pipelines, model evaluation.
 
-#### Specializations
-* **Probabilistic & Bayesian ML:** MCMC, MAP, Variational Inference, Bayesian Regression, Uncertainty Quantification
-* **Reinforcement Learning:** Bandits (UCB, Thompson Sampling), Exploration–Exploitation frameworks
-* **Time Series & State-Space:** ARIMA/VAR, GARCH, Hidden Markov Models, Kalman filtering
-* **Stochastic Processes:** DTMC/CTMC, Wiener processes, Gaussian processes
-* **Inference & Experiments:** A/B testing frameworks, Frequentist vs. Bayesian experimental design
-* **ML Engineering:** Reproducible pipelines, Bayesian optimization, model evaluation
-
-   </td>
-   <td width="50%" valign="top">
-
-#### Applied Interests
-* **Recommender Systems:** Latent factor models, collaborative & content-based filtering
-* **Applied NLP:** Semantic embeddings, LSI, representation learning
-* **Representation & Dynamics:** Dimensionality reduction, feature decomposition
-* **Decision Modeling:** Simulation of market & human capital dynamics under uncertainty
-
-   </td>
-  </tr>
-</table>
+**Applied Interests**
+* 🎲 **Reinforcement Learning & Decision Models:** Multi-Armed Bandits, simulation of market and human capital dynamics under uncertainty.
+* 🔍 **Recommender Systems & NLP:** Collaborative filtering, latent factor models, semantic embeddings.
+* 🧩 **Representation Learning:** Dimensionality reduction, feature decomposition.
