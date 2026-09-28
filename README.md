@@ -16,7 +16,7 @@ Data Scientist & Machine Learning Engineer focused on practical statistical mode
 
 * 💼 **Work:** Pay Equity Specialist / Data Analyst at **Mercer**.
 * 📊 **What I do:** Turn messy, complex data into reliable models and actionable business insights.
-* 🎯 Focus: Building interpretable models we can actually explain, not just blind black-box predictions.
+* 🎯 **Focus:** Building interpretable models we can actually explain, not just blind black-box predictions.
 
 ---
 
@@ -30,16 +30,14 @@ Data Scientist & Machine Learning Engineer focused on practical statistical mode
 
 ### Areas of Focus
 
+#### Core Specializations
 * **Classical Machine Learning:** Tree-based models (Random Forests, Gradient Boosting), Generalized Linear Models (GLMs), classification, and regression.
 * **Probabilistic & Bayesian ML:** MCMC, Variational Inference, Uncertainty Quantification.
 * **Time Series & Stochastic Modeling:** ARIMA/VAR, Gaussian Processes, Hidden Markov Models, Kalman Filtering.
 * **Inference & Experiments:** A/B testing frameworks, Frequentist vs. Bayesian experimental design.
 * **ML Engineering & Optimization:** Hyperparameter optimization, Bayesian optimization, reproducible pipelines, model evaluation.
 
----
-
-### Applied Interests
-
+#### Applied Interests
 * **Reinforcement Learning & Decision Models:** Multi-Armed Bandits, simulation of market and human capital dynamics under uncertainty.
 * **Recommender Systems & NLP:** Collaborative filtering, latent factor models, semantic embeddings.
 * **Representation Learning:** Dimensionality reduction, feature decomposition.
