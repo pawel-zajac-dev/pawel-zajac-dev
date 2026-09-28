@@ -18,7 +18,7 @@ Data Scientist & Machine Learning Engineer focused on practical statistical mode
 
 * 💼 **Work:** Pay Equity Specialist / Data Analyst at **Mercer**
 * 📊 **What I do:** Turn messy, complex data into reliable models and actionable business insights.
-* 🧠 **Approach:** I focus on interpretable solutions — building models we can actually explain, not just blind black-box predictions.
+* 🎯 **Focus:** I focus on interpretable solutions — building models we can actually explain, not just blind black-box predictions.
 
 ---
 
