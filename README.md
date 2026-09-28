@@ -10,17 +10,18 @@
 
 ## About Me
 
-Data Scientist & Machine Learning Engineer focused on practical statistical modeling and understanding the mechanisms behind data.
+Data Scientist & ML Engineer focused on practical statistical modeling and understanding data mechanisms.
 
 &emsp;💼 **Work:** Pay Equity Specialist / Data Analyst at **Mercer**.<br>
-&emsp;📊 **What I do:** Turn messy, complex data into reliable models and actionable business insights.<br>
-&emsp;🎯 **Focus:** Building interpretable models we can actually explain, not just blind black-box predictions.
+&emsp;📊 **What I do:** Turn messy data into reliable models and practical business insights.<br>
+&emsp;🎯 **Focus:** Building interpretable models we can explain, not just black-box predictions.
 
 ## Tech Stack & Tooling
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,r,pytorch,sklearn,git,docker,postgres,linux" alt="Tech Stack" />
 </div>
+<br>
 
 ## Areas of Focus
 
