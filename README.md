@@ -14,11 +14,11 @@
 
 ### About Me
 
-I combine **machine learning**, **Bayesian inference**, and **stochastic modeling** to analyze complex, noisy datasets and simulate dynamic systems. 
+Data Scientist & Machine Learning Engineer focused on practical statistical modeling and understanding the mechanisms behind data.
 
-* **Current Role:** Pay Equity Specialist / Data Analyst at **Mercer** (statistical modeling in workforce & compensation analytics).
-* **Core Philosophy:** Designing models that explain the mechanisms behind data, not just black-box predictions.
-* **Research & Practice:** Extracting actionable signal from uncertainty and non-stationary processes.
+* 💼 **Work:** Pay Equity Specialist / Data Analyst at **Mercer**
+* 📊 **What I do:** Turn messy, complex data into reliable models and actionable business insights.
+* 🧠 **Approach:** I focus on interpretable solutions — building models we can actually explain, not just blind black-box predictions.
 
 ---
 
