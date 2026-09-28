@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Paweł</h1>
+  <h2>Hi, I'm Paweł</h2>
   <p><em><strong>Machine Learning Engineer & Data Scientist</strong></em></p>
 
   <p>
@@ -10,7 +10,7 @@
 
 ## About Me
 
-Data Scientist & ML Engineer focused on practical statistical modeling and understanding data mechanisms.
+Data Scientist & ML Engineer focused on practical statistical modeling and interpretable ML.
 
 &emsp;💼 **Work:** Pay Equity Specialist / Data Analyst at **Mercer**.<br>
 &emsp;📊 **What I do:** Turn messy data into reliable models and practical business insights.<br>
@@ -21,7 +21,6 @@ Data Scientist & ML Engineer focused on practical statistical modeling and under
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,r,pytorch,sklearn,git,docker,postgres,linux" alt="Tech Stack" />
 </div>
-<br>
 
 ## Areas of Focus
 
