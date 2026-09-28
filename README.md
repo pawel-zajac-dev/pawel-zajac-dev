@@ -12,9 +12,9 @@
 
 Data Scientist & Machine Learning Engineer focused on practical statistical modeling and understanding the mechanisms behind data.
 
-* 💼 **Work:** Pay Equity Specialist / Data Analyst at **Mercer**.
-* 📊 **What I do:** Turn messy, complex data into reliable models and actionable business insights.
-* 🎯 **Focus:** Building interpretable models we can actually explain, not just blind black-box predictions.
+💼 **Work:** Pay Equity Specialist / Data Analyst at **Mercer**.<br>
+📊 **What I do:** Turn messy, complex data into reliable models and actionable business insights.<br>
+🎯 **Focus:** Building interpretable models we can actually explain, not just blind black-box predictions.
 
 ### Tech Stack & Tooling
 
