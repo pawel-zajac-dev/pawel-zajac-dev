@@ -38,6 +38,6 @@ Data Scientist & Machine Learning Engineer focused on practical statistical mode
 * **ML Engineering & Optimization:** Hyperparameter optimization, Bayesian optimization, reproducible pipelines, model evaluation.
 
 **Applied Interests**
-* 🎲 **Reinforcement Learning & Decision Models:** Multi-Armed Bandits, simulation of market and human capital dynamics under uncertainty.
-* 🔍 **Recommender Systems & NLP:** Collaborative filtering, latent factor models, semantic embeddings.
-* 🧩 **Representation Learning:** Dimensionality reduction, feature decomposition.
+* **Reinforcement Learning & Decision Models:** Multi-Armed Bandits, simulation of market and human capital dynamics under uncertainty.
+* **Recommender Systems & NLP:** Collaborative filtering, latent factor models, semantic embeddings.
+* **Representation Learning:** Dimensionality reduction, feature decomposition.
