@@ -1,7 +1,5 @@
 <div align="center">
-  <svg height="45" width="300" viewBox="0 0 300 45">
-    <text x="50%" y="35" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="32" font-weight="700" fill="currentColor">Hi, I'm Paweł</text>
-  </svg>
+  <h3 align="center"><font size="7">Hi, I'm Paweł</font></h3>
   <p><em><strong>Machine Learning Engineer & Data Scientist</strong></em></p>
 
   <p>
