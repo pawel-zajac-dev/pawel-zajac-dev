@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="assets/github_loop.webp" alt="GitHub Loop" width="130" />
   <h1>Hi, I'm Paweł</h1>
   <p><em><strong>Machine Learning Engineer & Data Scientist</strong></em></p>
 
