@@ -10,7 +10,7 @@
 
 ## About Me
 
-&emsp;💼 **Work:** Pay Equity Specialist / Data Analyst at **Mercer**.<br>
+&emsp;💼 **Work:** Pay Equity Specialist / Data Analyst at **Marsh McLennan**.<br>
 &emsp;📊 **What I do:** Turn messy, complex data into reliable models and actionable business insights.<br>
 &emsp;🎯 **Focus:** Building interpretable models we can actually explain, not just blind black-box predictions.
 
